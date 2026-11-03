@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+hw1/src/hw1_data_analysis/bicycle_data.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

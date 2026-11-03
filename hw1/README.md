@@ -1,1 +1,3 @@
+# Describe your process for doing this homework. (If you used an AI assist, please tell us so here. It will not affect your grade as long as you tell us.) Answer this question by editing the README.md file. (1pt)
 
+I did this homework with an AI assist. First, since I am used to doing pandas dataframe manipulation on Jupyter Notebook environment, I wrote my basic codes there. Then, when I ran into problems, I would google online how to fix it. Once I finished, I copy pasted my code into the hw1.py file and ran on the local conda env. I asked AI to review my code and check if there are any errors, and polish my code file before submission.
